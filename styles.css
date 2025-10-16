@@ -17,7 +17,7 @@ h1 {
 }
 
 .title {
-   color: #2E8B57; /* green subtitle like “Junior Frontend Developer” */
+   color: #127768; /* green subtitle like “Junior Frontend Developer” */
             font-weight: bold;
 }
 
@@ -32,7 +32,6 @@ h1 {
 a {
     color: #1E90FF; /* xanh dương */
     text-decoration: none;
-    target : _blank;    
 }
 a:hover {
     text-decoration: underline;
